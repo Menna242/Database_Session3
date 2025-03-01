@@ -83,9 +83,9 @@ INSERT INTO AssoiateInteraction(UserID,InterTD,PostID) VALUES
 SELECT* FROM AssoiateInteraction;
 --////////////////////////////////////////////////////////////////
 
---4
+--1
 -- To drop Users I should drop table Posts,AssoiateInteraction,Comment
 drop table Users;
 
---5
+--2
 drop database SocialMedia;
